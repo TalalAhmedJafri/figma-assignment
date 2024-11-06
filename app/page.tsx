@@ -8,7 +8,7 @@ export default function Home() {
       <p className="text-[147] w-[902] text-text pr-[400] pl-[100] mt-4">
         An example of intricate workmanship and detail, elegant necklaces and long and short chains form a part of our desirable collection.
         </p>
-        <button className=" bg-header rounded-[10] p-[10] mt-5 ml-[100] ">Explore Now</button>     
+        <button className=" bg-header rounded-[10px] p-[10] mt-5 ml-[100] ">Explore Now</button>     
     </div>
     <div className="w-1/2 flex justify-center items-center m-12">
     <Image 
